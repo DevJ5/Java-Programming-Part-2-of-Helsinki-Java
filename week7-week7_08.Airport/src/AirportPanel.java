@@ -1,15 +1,11 @@
-import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Scanner;
 
 public class AirportPanel {
-    private HashMap<String, Plane> planes;
-    private ArrayList<Flight> flights;
+    private FlightDatabase db;
     private Scanner reader;
 
-    public AirportPanel(Scanner reader){
-        this.planes = new HashMap<String, Plane>();
-        this.flights = new ArrayList<Flight>();
+    public AirportPanel(Scanner reader, FlightDatabase db){
+        this.db = db;
         this.reader = reader;
     }
 
@@ -23,38 +19,23 @@ public class AirportPanel {
             System.out.print("> ");
             String command = reader.nextLine();
             if(command.equals("1")) {
-                addAirplane();
+                System.out.print("Give plane ID: ");
+                String ID = reader.nextLine();
+                System.out.println("Give plane capacity: ");
+                int capacity = Integer.parseInt(reader.nextLine());
+                db.addPlane(ID, capacity);
             } else if(command.equals("2")) {
-                addFlight();
+                System.out.print("Give plane ID: ");
+                String ID = reader.nextLine();
+                System.out.print("Give departure airport code: ");
+                String departureCode = reader.nextLine();
+                System.out.print("Give destination airport code: ");
+                String destinationCode = reader.nextLine();
+                db.addFlight(ID, departureCode, destinationCode);
+                db.addFlight();
             } else if(command.equals("x")) {
                 break;
             }
         }
     }
-
-    private void addAirplane() {
-        System.out.print("Give plane ID: ");
-        String ID = reader.nextLine();
-        System.out.println("Give plane capacity: ");
-        int capacity = Integer.parseInt(reader.nextLine());
-        Plane plane = new Plane(ID, capacity);
-        this.planes.put(cleanString(ID), plane);
-    }
-
-    private void addFlight(){
-        System.out.print("Give plane ID: ");
-        String ID = reader.nextLine();
-        System.out.print("Give departure airport code: ");
-        String depCode = reader.nextLine();
-        System.out.print("Give destination airport code: ");
-        String desCode = reader.nextLine();
-        Flight flight = new Flight(this.planes.get(cleanString(ID)), depCode, desCode);
-        System.out.println(flight);
-        this.flights.add(flight);
-    }
-
-    private String cleanString(String str) {
-       return str.trim().toLowerCase();
-    }
-
 }
