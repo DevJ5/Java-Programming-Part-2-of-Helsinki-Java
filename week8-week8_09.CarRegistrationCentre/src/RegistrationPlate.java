@@ -1,6 +1,6 @@
 
 public class RegistrationPlate {
-    // don't change the code which is already given to you
+    // don't change the code 
 
     // ATTENTION: the object variable types are final, meaning that their value cannot be changed!
     private final String regCode;
