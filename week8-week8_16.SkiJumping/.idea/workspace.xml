@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74993c12-0d8f-4a1f-9756-e744331c7a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../week7-week7_03.Calculator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week7-week7_03.Calculator/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week7-week7_03.Calculator/src/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7-week7_03.Calculator/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_03.Calculator/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7-week7_03.Calculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_03.Calculator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_05.Nicknames/src/Nicknames.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_05.Nicknames/src/Nicknames.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,9 +28,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -63,7 +61,7 @@
   <component name="ToolWindowManager">
     <frame x="-1920" y="-180" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
