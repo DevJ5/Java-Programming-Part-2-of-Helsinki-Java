@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74993c12-0d8f-4a1f-9756-e744331c7a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7-week7_05.Nicknames/src/Nicknames.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_05.Nicknames/src/Nicknames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week7-week7_06.PromissoryNote/src/PromissoryNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_06.PromissoryNote/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_06.PromissoryNote/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +28,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
