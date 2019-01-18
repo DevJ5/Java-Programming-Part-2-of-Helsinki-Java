@@ -1,17 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd1afd7f-3e1a-4b34-8088-54e0e0840300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Change.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Changer.java" afterDir="false" />
+    <list default="true" id="f8fc5b2e-d383-4b0b-9f6a-8d34d5a3ef93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_01.Smileys/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/build/built-jar.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_01.Smileys/build/built-jar.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/build/classes/Smileys.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_01.Smileys/build/classes/Smileys.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/build_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_01.Smileys/build_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/build/classes/Smileys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/build/test/classes/SmileysTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/build_errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/build_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/out/production/week7-week7_01.Smileys/META-INF/week7-week7_01.Smileys.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/out/production/week7-week7_01.Smileys/Smileys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/out/test/week7-week7_01.Smileys/SmileysTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/src/Smileys.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_01.Smileys/src/Smileys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_01.Smileys/week7-week7_01.Smileys.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7-week7_02.CharacterStringChanger/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7-week7_02.CharacterStringChanger/Change.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week7-week7_02.CharacterStringChanger/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/week7-week7_02.CharacterStringChanger/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/week7-week7_02.CharacterStringChanger/ChangerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Change.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Changer.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_03.Calculator/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_03.Calculator/src/Reader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/build/classes/Container.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/build/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/build/classes/Suitcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/build/classes/Thing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/build/test/classes/A_ThingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/build/test/classes/B_SuitcaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/build/test/classes/C_ContainerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/build_errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/build_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/out/production/week7-week7_04.ThingSuitcaseAndContainer/Container.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/out/production/week7-week7_04.ThingSuitcaseAndContainer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/out/production/week7-week7_04.ThingSuitcaseAndContainer/Suitcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/out/production/week7-week7_04.ThingSuitcaseAndContainer/Thing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/out/test/week7-week7_04.ThingSuitcaseAndContainer/A_ThingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/out/test/week7-week7_04.ThingSuitcaseAndContainer/B_SuitcaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/out/test/week7-week7_04.ThingSuitcaseAndContainer/C_ContainerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/src/Container.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/src/Suitcase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/src/Thing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_04.ThingSuitcaseAndContainer/week7-week7_04.ThingSuitcaseAndContainer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_05.Nicknames/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_05.Nicknames/week7-week7_05.Nicknames.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_06.PromissoryNote/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_06.PromissoryNote/src/PromissoryNote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/build/classes/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/build/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/build/classes/TextUserInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/build/test/classes/DictionaryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/build/test/classes/TextUserInterfaceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/build_errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/build_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/out/production/week7-week7_07.Dictionary/Dictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/out/production/week7-week7_07.Dictionary/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/out/production/week7-week7_07.Dictionary/TextUserInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/out/test/week7-week7_07.Dictionary/DictionaryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/out/test/week7-week7_07.Dictionary/TextUserInterfaceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/src/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_07.Dictionary/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/src/TextUserInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_07.Dictionary/week7-week7_07.Dictionary.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/.idea/dictionaries/devj5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/build_errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/build_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/out/production/week7-week7_08.Airport/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/out/production/week7-week7_08.Airport/AirportPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/out/production/week7-week7_08.Airport/Flight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/out/production/week7-week7_08.Airport/FlightService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/out/production/week7-week7_08.Airport/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/out/production/week7-week7_08.Airport/Plane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/out/test/week7-week7_08.Airport/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/out/test/week7-week7_08.Airport/AirportTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/src/AirportPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/src/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/src/FlightDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/src/FlightService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week7-week7_08.Airport/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/src/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/src/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/src/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week7-week7_08.Airport/week7-week7_08.Airport.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/build_errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/build_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/src/RegistrationPlate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/src/RegistrationPlate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/src/VehicleRegister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_09.CarRegistrationCentre/week8-week8_09.CarRegistrationCentre.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_10.NationalService/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_10.NationalService/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_10.NationalService/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_10.NationalService/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_10.NationalService/.idea/week8-week8_10.NationalService.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_10.NationalService/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_10.NationalService/build_errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_10.NationalService/build_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_10.NationalService/src/CivilService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_10.NationalService/src/MilitaryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/build_errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/build_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/out/production/week8-week8_11.BoxesAndThings/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/out/production/week8-week8_11.BoxesAndThings/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/out/production/week8-week8_11.BoxesAndThings/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/out/production/week8-week8_11.BoxesAndThings/CD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/out/production/week8-week8_11.BoxesAndThings/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/out/production/week8-week8_11.BoxesAndThings/ToBeStored.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/out/test/week8-week8_11.BoxesAndThings/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/out/test/week8-week8_11.BoxesAndThings/Part1ToBeStoredTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/out/test/week8-week8_11.BoxesAndThings/Part2And3And4BoxTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/src/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/src/CD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/src/ToBeStored.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/week8-week8_11.BoxesAndThings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/build_errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/build_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/out/production/week8-week8_12.OnlineShop/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/out/production/week8-week8_12.OnlineShop/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/out/production/week8-week8_12.OnlineShop/Storehouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/out/test/week8-week8_12.OnlineShop/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/out/test/week8-week8_12.OnlineShop/A_StorehouseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/out/test/week8-week8_12.OnlineShop/B_PurchaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/out/test/week8-week8_12.OnlineShop/C_ShoppingBasketTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/src/Purchase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/src/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/src/ShoppingBasket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/src/Storehouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/week8-week8_12.OnlineShop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/build_errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/build_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/out/production/week8-week8_13.RichFirstPoorLast/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/out/production/week8-week8_13.RichFirstPoorLast/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/out/production/week8-week8_13.RichFirstPoorLast/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/out/test/week8-week8_13.RichFirstPoorLast/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/out/test/week8-week8_13.RichFirstPoorLast/PersonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/week8-week8_13.RichFirstPoorLast.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/build_errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/build_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/out/production/week8-week8_14.StudentsSortedByName/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/out/production/week8-week8_14.StudentsSortedByName/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/out/production/week8-week8_14.StudentsSortedByName/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/out/test/week8-week8_14.StudentsSortedByName/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/out/test/week8-week8_14.StudentsSortedByName/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/week8-week8_14.StudentsSortedByName.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/.idea/libraries/tmc_junit_runner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/build_errors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/build_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/src/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_15.SortedCards/src/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/src/Hand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/src/SortAgainstSuit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/src/SortAgainstSuitAndValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_15.SortedCards/week8-week8_15.SortedCards.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_16.SkiJumping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_16.SkiJumping/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,65 +257,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Change.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Changer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-              <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-              </folding>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Change.java" />
-        <option value="$PROJECT_DIR$/src/Changer.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1920" />
+    <option name="y" value="-180" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -88,15 +283,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="week7-week7_02.CharacterStringChanger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
               <item name="week7-week7_02.CharacterStringChanger" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="week7-week7_02.CharacterStringChanger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
               <item name="week7-week7_02.CharacterStringChanger" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -104,12 +301,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547033036310" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -123,60 +315,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="week7-week7_02.CharacterStringChanger" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bd1afd7f-3e1a-4b34-8088-54e0e0840300" name="Default Changelist" comment="" />
-      <created>1547030131369</created>
+      <changelist id="f8fc5b2e-d383-4b0b-9f6a-8d34d5a3ef93" name="Default Changelist" comment="" />
+      <created>1547804201888</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547030131369</updated>
+      <updated>1547804201888</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
+    <frame x="-1920" y="-180" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="TMC Test Results" visible="true" weight="0.3294702" />
-      <window_info anchor="bottom" id="Messages" weight="0.3294702" />
+      <window_info anchor="bottom" id="TMC Test Results" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3294702" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="TMC Project List" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info active="true" anchor="right" id="TMC Project List" visible="true" weight="0.32960597" />
       <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -184,32 +357,28 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Change.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Changer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
