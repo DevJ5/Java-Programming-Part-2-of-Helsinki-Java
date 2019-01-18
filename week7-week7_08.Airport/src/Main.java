@@ -13,7 +13,8 @@ public class Main {
             If a command is not recognized, user is prompted again.
             The program starts in the main.
          */
-
+        Panel UI = new Panel();
+        UI.start();
 
     }
 }
