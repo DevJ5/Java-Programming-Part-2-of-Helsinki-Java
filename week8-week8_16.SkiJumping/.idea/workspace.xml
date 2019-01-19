@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74993c12-0d8f-4a1f-9756-e744331c7a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../week8-week8_11.BoxesAndThings/src/ToBeStored.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/src/Purchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/src/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/src/ShoppingBasket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/src/Storehouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_12.OnlineShop/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_13.RichFirstPoorLast/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week8-week8_14.StudentsSortedByName/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,9 +34,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
