@@ -7,7 +7,6 @@ import java.util.Map;
 public class Main {
 
     public static void main(String[] args) {
-        // below is the same examle program as in the assignment
 
         RegistrationPlate reg1 = new RegistrationPlate("FI", "ABC-123");
         RegistrationPlate reg2 = new RegistrationPlate("FI", "UXE-465");
@@ -33,6 +32,6 @@ public class Main {
         System.out.println("owners:");
         System.out.println(owners.get(new RegistrationPlate("FI", "ABC-123")));
         System.out.println(owners.get(new RegistrationPlate("D", "B WQ-431")));
-        // if the hashCode hasn't been overwritten, the owners are not found
+         // if the hashCode hasn't been overwritten, the owners are not found
     }
 }
