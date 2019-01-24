@@ -25,7 +25,9 @@ public class Container {
     }
 
     public double getCurrentCapacity() {
-        return capacity - volume;
+        double result = capacity - volume;
+
+        return (double)Math.round(result * 10) / 10;
     }
 
     public void addToTheContainer(double amount) {
