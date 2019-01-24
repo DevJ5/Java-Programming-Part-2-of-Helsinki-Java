@@ -1,3 +1,4 @@
+import java.util.Objects;
 
 public class Bird {
 
@@ -11,10 +12,31 @@ public class Bird {
         this.ringingYear = ringingYear;
     }
 
+    public String getLatinName() {
+        return latinName;
+    }
+
+    public int getRingingYear() {
+        return ringingYear;
+    }
 
     @Override
     public String toString() {
         return this.latinName + " (" + this.ringingYear + ")";
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Bird bird = (Bird) o;
+        return ringingYear == bird.ringingYear &&
+                Objects.equals(latinName, bird.latinName);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(latinName, ringingYear);
     }
 }
 
