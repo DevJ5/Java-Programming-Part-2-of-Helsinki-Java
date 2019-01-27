@@ -7,6 +7,7 @@ public class GraphicCalculator implements Runnable {
 
     @Override
     public void run() {
+
     }
 
     private void createComponents(Container container) {
