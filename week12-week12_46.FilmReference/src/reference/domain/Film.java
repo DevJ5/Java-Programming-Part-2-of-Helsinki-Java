@@ -2,7 +2,7 @@ package reference.domain;
 
 import java.util.Objects;
 
-public class Film {
+public class Film  {
     private String name;
 
     public Film(String name) {
@@ -30,4 +30,5 @@ public class Film {
     public int hashCode() {
         return Objects.hash(name);
     }
+
 }
